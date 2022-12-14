@@ -1,4 +1,5 @@
 import React from 'react';
+import backgroundImage from "../assets/react-logo-black-and-white.png"
 
 export default function Main(){
     return (

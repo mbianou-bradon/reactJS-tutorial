@@ -24,7 +24,8 @@ body {
 }
 
 .nav-logo{
-  font-size: 3rem;
+  height: 2.2rem;
+  width: auto;
   margin-inline-end: 0.5rem;
 }
 
