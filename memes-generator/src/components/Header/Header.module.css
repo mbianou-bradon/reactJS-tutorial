@@ -1,0 +1,16 @@
+nav {
+    display: flex;
+    align-items: center;
+    background: linear-gradient(to right, purple , violet);
+    padding-block: 1rem;
+    padding-inline: 0.5rem;
+    font-size: 0.75rem;
+    color: white;
+}
+
+h1{
+    font-size: 1.25rem;
+    margin-inline-start: 0.3rem;
+    margin-inline-end: auto;
+}
+
