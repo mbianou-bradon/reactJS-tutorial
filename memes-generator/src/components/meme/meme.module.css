@@ -1,0 +1,26 @@
+main{
+    width: 100%;
+    padding: 2rem;
+}
+
+form{
+    display: flex;
+    margin-block-end: 1rem;
+    justify-content: space-between;
+}
+
+input {
+    padding: 0.5rem;
+}
+
+
+button {
+    width: 100%;
+    background: linear-gradient(to right, purple, violet);
+    color: white;
+    border: none;
+    font-weight: 600;
+    padding: 0.5rem;
+    border-radius: 0.4rem;
+    cursor: pointer;
+}
